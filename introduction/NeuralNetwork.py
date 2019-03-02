@@ -3,7 +3,6 @@
   Copyright (c) 2019/2/27 Xiaozhong. All rights reserved.
 """
 import numpy
-import scipy
 import matplotlib.pyplot
 
 
