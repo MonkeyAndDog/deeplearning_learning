@@ -116,3 +116,6 @@ dmypy.json
 .pyre/
 
 .idea/
+
+*.gz
+*/model3/
